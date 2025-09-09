@@ -63,6 +63,8 @@ Thus, the predicted savings represent **~2% of annual revenue**.
 ---
 
 ## 🖼️ Example Result
+- **Issues:** We see that the model is underperforming in August, probably because of an event that I can't put in the features because I don't know where is the bakery located
+
 ![Model performance](./assets/performance_du_model.png)
 
 ---
