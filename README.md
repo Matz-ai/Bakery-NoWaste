@@ -81,14 +81,6 @@ Thus, the predicted savings represent **~2% of annual revenue**.
 - **Open-Meteo API**
 - **vacances-scolaires-france 0.10.0**
 
----
-
-## 📂 Repository Structure
-├── data/ # Raw data / sample data
-├── notebooks/ # Jupyter notebooks (exploration + modeling)
-├── assets/ # Plots and visuals
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
 
 ---
 
