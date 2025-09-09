@@ -4,3 +4,4 @@ catboost_info/
 main.py
 Balaji_exploratory.ipynb
 Balaji_Fast_Food_Sales.csv
+.gitignore
